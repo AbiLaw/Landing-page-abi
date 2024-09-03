@@ -1,8 +1,9 @@
 h1 {
     font-family: "Playfair Display",serif;
     font-size: 40px;
-    font-weight: 700;
+    font-weight: bold, 700;
     line-height: 8px;
+    margin-bottom:8px;
 
 }
 
